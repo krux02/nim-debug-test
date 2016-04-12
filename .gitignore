@@ -1,3 +1,6 @@
 *.pyc
 nimcache/
-nim_debug_test
+debug_test
+
+# CMake
+*.user
